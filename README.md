@@ -1,4 +1,4 @@
-![image](https://github.com/KipeTBest/smth_strange/assets/90268471/938f5560-e850-482e-be7b-75de831585f6)Я использовал WebStrom, там все и настраивал через NodeJS. npm --version у меня 9.2.0
+Я использовал WebStrom, там все и настраивал через NodeJS. npm --version у меня 9.2.0
 
 Скачиваем. Затем пропысываем npm install - установит все зависимости (ну или можно руками: npm install express)
 
